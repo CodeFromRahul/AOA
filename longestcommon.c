@@ -23,7 +23,7 @@ void findLCS(int str1[],int str2[],int m,int n){
     lcs[length]='\0';
     int i=m,j=n;
     while(i>0&&j>0){
-        i
+        
     }
 }
 int main()
